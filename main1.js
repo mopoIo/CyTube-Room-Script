@@ -241,3 +241,37 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ })
 
 /******/ });
+
+/* Adds Element BEFORE NeighborElement */
+Element.prototype.appendBefore = function (element) {
+    element.parentNode.insertBefore(this, element);
+}, false;
+
+/* Adds Element AFTER NeighborElement */
+Element.prototype.appendAfter = function (element) {
+    element.parentNode.insertBefore(this, element.nextSibling);
+}, false;
+
+if ($(window).width() < 769) {
+   /*  Add NewElement BEFORE -OR- AFTER Using the Aforementioned Prototypes */
+chatwrap.appendAfter(document.getElementById('videowrap'));
+
+
+		var my_elem = document.getElementById('controlsrow');
+
+var span = document.createElement('span');
+    span.innerHTML = 'Queue˅';
+    span.className = 'settingss';
+span.setAttribute("id", "Div1");
+
+my_elem.parentNode.insertBefore(span, my_elem);
+
+document.getElementById("Div1").onclick = function() {
+fun()
+};
+function fun() {
+var para = document.getElementById("controlsrow");
+        para.classList.toggle("toogleclass");
+}
+}
+
