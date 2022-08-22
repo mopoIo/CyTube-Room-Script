@@ -1,3 +1,8 @@
 Summer:
-{background-image: linear-gradient(150deg, rgba(92, 81, 217, 1) 20%, rgba(227, 81, 151, 1) 49%, rgba(253, 183, 27, 1) 80%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(0px 0px 5px rgba(255, 20, 224, 1));}
+background-image: linear-gradient(150deg, rgba(92, 81, 217, 1) 20%, rgba(227, 81, 151, 1) 49%, rgba(253, 183, 27, 1) 80%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(0px 0px 5px rgba(255, 20, 224, 1));
 
+Solar Flare:
+background-image: repeating-radial-gradient(ellipse, rgba(255, 207, 77, 1) 72%, rgba(255, 136, 0, 1) 87%, rgba(247, 122, 38, 1) 88%, rgba(249, 218, 134, 1) 95%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(0px 0px 5px rgba(252, 103, 3, 1)) drop-shadow(0px 0px 1px rgba(255, 213, 0, 1));
+
+Supibot:
+background-image: linear-gradient(90deg, rgba(255, 164, 182, 1) 0%, rgba(255, 255, 255, 1) 20%, rgba(255, 164, 182, 1) 40%, rgba(255, 255, 255, 1) 60%, rgba(255, 164, 182, 1) 80%, rgba(255, 255, 255, 1) 100%);background-size: cover;background-clip: text;-webkitbackground-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(0px 0px 8px rgba(221, 90, 160, 1));
