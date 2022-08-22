@@ -417,7 +417,7 @@ const userConfig = [
     },
     {
         username: \"mopolo\",
-        colour: \"linear-gradient(90deg, rgba(255, 164, 182, 1) 0%, rgba(255, 255, 255, 1) 20%, rgba(255, 164, 182, 1) 40%, rgba(255, 255, 255, 1) 60%, rgba(255, 164, 182, 1) 80%, rgba(255, 255, 255, 1) 100%);\",
+        colour: \"linear-gradient(90deg, rgba(255, 164, 182, 1) 0%, rgba(255, 255, 255, 1) 20%, rgba(255, 164, 182, 1) 40%, rgba(255, 255, 255, 1) 60%, rgba(255, 164, 182, 1) 80%, rgba(255, 255, 255, 1) 100%)\",
     },
     {
         username: \"Fitzthistlewits\",
