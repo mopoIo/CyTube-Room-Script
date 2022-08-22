@@ -36,6 +36,7 @@ background-image: linear-gradient(90deg, rgba(20, 50, 72, 1) 20%, rgba(50, 157, 
 }
 
 Catseye:
+background-image: linear-gradient(90deg, rgba(56, 92, 20, 1) 0%, rgba(172, 182, 27, 1) 30%, rgba(235, 242, 146, 1) 44%, rgba(253, 255, 229, 1) 50%, rgba(235, 242, 146, 1) 56.00000000000001%, rgba(172, 182, 27, 1) 70%, rgba(56, 92, 20, 1) 100%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(0px 1px 1px rgba(15, 18, 12, 1));
 
 Grapefruit Slice:
 
@@ -51,3 +52,66 @@ background-image: radial-gradient(circle, rgba(215, 176, 48, 1) 0%, rgba(255, 24
 
 De cyan oscuro a verde claro:
 background-image: linear-gradient(90deg, rgba(20, 50, 72, 1) 20%, rgba(50, 157, 156, 1) 20%, rgba(50, 157, 156, 1) 40%, rgba(86, 197, 150, 1) 40%, rgba(86, 197, 150, 1) 60%, rgba(123, 228, 149, 1) 60%, rgba(123, 228, 149, 1) 80%, rgba(207, 244, 210, 1) 80%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;
+
+Vaporwave:
+{
+  background-image: linear-gradient(360deg, rgba(10, 182, 255, 1) 0%, rgba(10, 182, 255, 1) 25%, rgba(153, 224, 255, 1) 25%, rgba(153, 224, 255, 1) 50%, rgba(153, 0, 255, 1) 50%, rgba(153, 0, 255, 1) 75%, rgba(255, 0, 200, 1) 75%);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: currentColor;
+  filter: drop-shadow(0px 0px 1px rgba(255, 102, 102, 1));
+}
+
+Pink cloud:
+{
+  background-image: radial-gradient(circle, rgba(255, 90, 160, 1) 1%, rgba(100, 110, 205, 1) 48%, rgba(250, 70, 230, 1) 99%);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: currentColor;
+}
+
+Purple to cyan fade:
+{
+  background-image: linear-gradient(90deg, rgba(115, 100, 245, 1) 0%, rgba(120, 200, 255, 1) 40%, rgba(100, 240, 170, 1) 80%);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: currentColor;
+}
+
+Red tiny glow:
+{
+  background-image: radial-gradient(circle, rgba(255, 215, 189, 1) 0%, rgba(255, 215, 189, 1) 20%, rgba(251, 142, 142, 1) 20%, rgba(255, 129, 129, 1) 70%, rgba(255, 201, 146, 1) 70%, rgba(255, 201, 146, 1) 80%, rgba(255, 192, 94, 1) 80%, rgba(255, 192, 94, 1) 100%);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: currentColor;
+}
+
+red glow:
+{
+  background-image: linear-gradient(90deg, rgba(255, 164, 182, 1) 0%, rgba(255, 255, 255, 1) 20%, rgba(255, 164, 182, 1) 40%, rgba(255, 255, 255, 1) 60%, rgba(255, 164, 182, 1) 80%, rgba(255, 255, 255, 1) 100%);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: currentColor;
+  filter: drop-shadow(0px 0px 8px rgba(221, 90, 160, 1));
+}
+
+Fresh soda:
+{
+  background-image: linear-gradient(90deg, rgba(117, 205, 216, 1) 0%, rgba(117, 205, 216, 1) 20%, rgba(240, 242, 231, 1) 20%, rgba(240, 242, 231, 1) 40%, rgba(255, 130, 150, 1) 40%, rgba(255, 130, 150, 1) 60%, rgba(240, 242, 231, 1) 60%, rgba(240, 242, 231, 1) 80%, rgba(117, 205, 216, 1) 80%, rgba(117, 205, 216, 1) 100%);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: currentColor;
+}
+
