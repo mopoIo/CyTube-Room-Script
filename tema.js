@@ -417,7 +417,7 @@ const userConfig = [
     },
     {
         username: \"mopolo\",
-        colour: \"linear-gradient(150deg, rgba(92, 81, 217, 1) 20%, rgba(227, 81, 151, 1) 49%, rgba(253, 183, 27, 1) 80%);\",
+        colour: \"linear-gradient(90deg, rgba(255, 164, 182, 1) 0%, rgba(255, 255, 255, 1) 20%, rgba(255, 164, 182, 1) 40%, rgba(255, 255, 255, 1) 60%, rgba(255, 164, 182, 1) 80%, rgba(255, 255, 255, 1) 100%);\",
     },
     {
         username: \"Fitzthistlewits\",
@@ -1055,6 +1055,12 @@ const initCustomUserSettings = () => {
         return `
     .chat-msg-${userConfig.username} .username {
       background-image: ${userConfig.colour};
+	  background-size: cover;
+	  background-clip: text;
+	  -webkit-background-clip: text;
+	  -webkit-text-fill-color: transparent;
+	  background-color: currentColor;
+	  filter: drop-shadow(0px 0px 8px rgba(221, 90, 160, 1)); !important;}
     }
     .video-added-by-${userConfig.username} strong {
       background-image: ${userConfig.colour};
