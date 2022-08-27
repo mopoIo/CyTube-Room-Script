@@ -59,4 +59,10 @@ background-image: linear-gradient(90deg, rgba(235, 255, 100, 1) 0%, rgba(255, 16
 background-image: linear-gradient(90deg, rgba(200, 35, 40, 1) 1%, rgba(250, 170, 40, 1) 20%, rgba(255, 215, 75, 1) 40%, rgba(245, 135, 140, 1) 60%, rgba(160, 40, 40, 1) 80%, rgba(200, 150, 5, 1) 99%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(0.55px 0px 0.86px rgba(255, 40, 40, 0.2549019607843137)) drop-shadow(-0.55px 0px 0.86px rgba(255, 40, 40, 0.2549019607843137)) drop-shadow(0px 0.55px 0.86px rgba(255, 40, 40, 0.2549019607843137)) drop-shadow(0px -0.55px 0.86px rgba(255, 40, 40, 0.2549019607843137));
 
 21. 16, light green glowing for scarly:
-background-image: linear-gradient(90deg, rgba(255, 164, 182, 1) 0%, rgba(255, 255, 255, 1) 20%, rgba(255, 164, 182, 1) 40%, rgba(255, 255, 255, 1) 60%, rgba(255, 164, 182, 1) 80%, rgba(255, 255, 255, 1) 100%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(0px 0px 8px rgba(221, 90, 160, 1));
+background-image: linear-gradient(90deg, rgba(141, 151, 252, 1) 0%, rgba(255, 255, 255, 1) 20%, rgba(141, 151, 252, 1) 40%, rgba(255, 255, 255, 1) 60%, rgba(141, 151, 252, 1) 80%, rgba(255, 255, 255, 1) 100%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(0px 0px 8px rgba(141, 151, 252, 1));
+
+22. mopolo (10 but green):
+background-image: linear-gradient(90deg, rgba(0, 255, 127, 1) 0%, rgba(170, 251, 251, 1) 25%, rgba(144, 232, 188, 1) 50%, rgba(2, 112, 57, 1) 75%, rgba(7, 84, 45, 1) 99%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;filter: drop-shadow(1.25px 1.25px 0px rgba(8, 61, 34, 0.6)) drop-shadow(1.25px 1.25px 0.25px rgba(0, 255, 127, 1)) drop-shadow(0.01px 0.01px 4.01px rgba(16, 79, 47, 1));
+
+
+
