@@ -260,7 +260,7 @@ chatwrap.appendAfter(document.getElementById('videowrap'));
 		var my_elem = document.getElementById('controlsrow');
 
 var span = document.createElement('span');
-    span.innerHTML = 'Queue˅';
+    span.innerHTML = '˅';
     span.className = 'settingss';
 span.setAttribute("id", "Div1");
 
