@@ -286,3 +286,8 @@ function toggleDivs() {
     div1.style.display = 'inline';
   }
 }
+
+var LOLS = document.getElementById('userlist');
+var lastIndex = LOLS.lastIndexOf(" ");
+
+LOLS = LOLS.substring(0, lastIndex);
