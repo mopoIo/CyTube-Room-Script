@@ -276,15 +276,17 @@ var para = document.getElementById("controlsrow");
 }
 
 document.getElementById('userlisttoggle').addEventListener('click', toggleDivs);
-var div1 = document.getElementById('usercount');
-var lastIndex = div1.lastIndexOf(" ");
-div1 = div1.substring(0, lastIndex);
 function toggleDivs() {
   
   if (div1.style.display != 'none') {
+    var div1 = document.getElementById('usercount');
     div1.style.display = 'none';
   } else {
     div1.style.display = 'inline';
   }
 }
 
+var LOLS = document.getElementById('userlist');
+var lastIndex = LOLS.lastIndexOf(" ");
+
+LOLS = LOLS.substring(0, lastIndex);
