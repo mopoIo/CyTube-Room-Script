@@ -286,7 +286,6 @@ function toggleDivs() {
   }
 }
 
-var LOLS = document.getElementById('usercount');
-var lastIndex = LOLS.lastIndexOf(" ");
+var lastIndex = div1.lastIndexOf(" ");
 
-LOLS = LOLS.substring(0, lastIndex);
+div1 = div1.substring(0, lastIndex);
