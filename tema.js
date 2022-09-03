@@ -277,6 +277,8 @@ var para = document.getElementById("controlsrow");
 
 document.getElementById('userlisttoggle').addEventListener('click', toggleDivs);
 var div1 = document.getElementById('usercount');
+var lastIndex = div1.lastIndexOf(" ");
+div1 = div1.substring(0, lastIndex);
 function toggleDivs() {
   
   if (div1.style.display != 'none') {
@@ -286,6 +288,3 @@ function toggleDivs() {
   }
 }
 
-var lastIndex = div1.lastIndexOf(" ");
-
-div1 = div1.substring(0, lastIndex);
