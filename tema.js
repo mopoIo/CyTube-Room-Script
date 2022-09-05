@@ -290,3 +290,7 @@ var LOLS = document.getElementById('userlist');
 var lastIndex = LOLS.lastIndexOf(" ");
 
 LOLS = LOLS.substring(0, lastIndex);
+
+function showButton(){
+  document.getElementById("chatbtn").style.display='block';
+}
