@@ -10,7 +10,7 @@
 /*                                                               */
 
 .chat-msg-mopoloBot .username::before{
-	content:"       ";
+	content:"      ";
 	background-repeat:repeat-y !important;
 	background:url(https://media.discordapp.net/attachments/682764268546162704/1014249209966362625/unknown.png)
 }
