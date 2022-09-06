@@ -38,13 +38,12 @@
 	filter: drop-shadow(1.25px 1.25px 0px rgba(8, 61, 34, 0.6)) drop-shadow(1.25px 1.25px 0.25px rgba(0, 255, 127, 1)) drop-shadow(0.01px 0.01px 4.01px rgba(16, 79, 47, 1));
 }
 .chat-msg-mopoloBot .username, .video-added-by-mopoloBot strong, .username-mopoloBot {
-	/* color: #1e90ff; */
+	color: #1e90ff;
+}
+.chat-msg-colby .username, .video-added-by-colby strong, .username-colby {
 	color: #7cdff8;
 }
-.chat-msg-colby .username {
-	color: #7cdff8;
-}
-.chat-msg-arina_ .username {
+.chat-msg-arina_ .username, .video-added-by-arina_ strong, .username-arina_ {
 	background-image: radial-gradient(circle, rgba(181, 65, 143, 1) 1%, rgba(162, 10, 69, 1) 48%, rgba(181, 65, 143, 1) 99%);
 	background-size: cover;
 	background-clip: text;
@@ -52,26 +51,26 @@
 	-webkit-text-fill-color: transparent;
 	background-color: currentColor;
 }
-.chat-msg-deethesea .username {
+.chat-msg-deethesea .username, .video-added-by-deethesea strong, .username-deethesea {
 	color: #9acd32;
 }
-.chat-msg-gwen0108 .username {
+.chat-msg-gwen0108 .username, .video-added-by-gwen0108 strong, .username-gwen0108 {
 	color: #8df8a8;
 }
-.chat-msg-lake0cean .username {
+.chat-msg-lake0cean .username, .video-added-by-lake0cean strong, .username-lake0cean {
 	color: #1e90ff;
 }
-.chat-msg-scarly .username {
+.chat-msg-scarly .username, .video-added-by-scarly strong, .username-scarly {
 	text-shadow: 0 0 5px #FFF, 0 0 5px #49ff18, 0 0 30px #49FF18, 0 0 20px #49FF18, 0 0 35px #49FF18;
 	color: #18181b;
 }
-.chat-msg-ilana .username {
+.chat-msg-ilana .username, .video-added-by-ilana strong, .username-ilana {
 	color: #ffc2fa;
 }
-.chat-msg-dripdex .username {
+.chat-msg-dripdex .username, .video-added-by-dripdex strong, .username-dripdex {
 	color: #00ff7f;
 }
-.chat-msg-suwizzle .username {
+.chat-msg-suwizzle .username, .video-added-by-suwizzle strong, .username-suwizzle {
 	background-image: radial-gradient(circle, rgba(255, 213, 250, 1) 0%, rgba(255, 213, 250, 1) 20%, rgba(249, 175, 236, 1) 20%, rgba(249, 175, 236, 1) 70%, rgba(183, 159, 241, 1) 70%, rgba(183, 159, 241, 1) 80%, rgba(131, 132, 223, 1) 80%, rgba(131, 132, 223, 1) 100%);
 	background-size: cover;
 	background-clip: text;
@@ -79,22 +78,22 @@
 	-webkit-text-fill-color: transparent;
 	background-color: currentColor;
 }
-.chat-msg-camille_ .username {
+.chat-msg-camille_ .username, .video-added-by-camille_ strong, .username-camille_ {
 	color: #5f9ea0;
 }
-.chat-msg-deadfishsaga .username {
+.chat-msg-deadfishsaga .username, .video-added-by-deadfishsaga strong, .username-deadfishsaga {
 	color: #1e90ff;
 }
-.chat-msg-Sofia0livia .username {
+.chat-msg-Sofia0livia .username, .video-added-by-Sofia0livia strong, .username-Sofia0livia {
 	color: #fe1919;
 }
-.chat-msg-ASH44307 .username {
+.chat-msg-ASH44307 .username, .video-added-by-ASH44307 strong, .username-ASH44307 {
 	color: #d67fba;
 }
-.chat-msg-zeinamatari .username {
+.chat-msg-zeinamatari .username, .video-added-by-zeinamatari strong, .username-zeinamatari {
 	color: #33925d;
 }
-.chat-msg-chala .username {
+.chat-msg-chala .username, .video-added-by-chala strong, .username-chala {
 	background-image: radial-gradient(circle, rgba(252, 93, 157, 1) 1%, rgba(248, 197, 150, 1) 48%, rgba(252, 93, 157, 1) 99%);
 	background-size: cover;
 	background-clip: text;
@@ -102,97 +101,97 @@
 	-webkit-text-fill-color: transparent;
 	background-color: currentColor;
 }
-.chat-msg-skubru .username {
+.chat-msg-skubru .username, .video-added-by-skubru strong, .username-skubru {
 	color: #ffff00;
 }
-.chat-msg-onybear69 .username {
+.chat-msg-onybear69 .username, .video-added-by-onybear69 strong, .username-onybear69 {
 	color: #1e90ff;
 }
-.chat-msg-samanthaaa .username {
+.chat-msg-samanthaaa .username, .video-added-by-samanthaaa strong, .username-samanthaaa {
 	color: #00ff0c;
 }
-.chat-msg-kyrawelch .username {
+.chat-msg-kyrawelch .username, .video-added-by-kyrawelch strong, .username-kyrawelch {
 	color: #8df8a8;
 }
-.chat-msg-has .username {
+.chat-msg-has .username, .video-added-by-has strong, .username-has {
 	color: #00ff7f;
 }
-.chat-msg-lmao_effie .username {
+.chat-msg-lmao_effie .username, .video-added-by-lmao_effie strong, .username-lmao_effie {
 	color: #00ff7f;
 }
-.chat-msg-Kenia-the-mermaid .username {
+.chat-msg-Kenia-the-mermaid .username, .video-added-by-Kenia-the-mermaid strong, .username-Kenia-the-mermaid {
 	color: #1e90ff;
 }
-.chat-msg-unnaturalduck .username {
+.chat-msg-unnaturalduck .username, .video-added-by-unnaturalduck strong, .username-unnaturalduck {
 	color: #47b222;
 }
-.chat-msg-keelinf .username {
+.chat-msg-keelinf .username, .video-added-by-keelinf strong, .username-keelinf {
 	color: #2e8b57;
 }
-.chat-msg-splasm .username {
+.chat-msg-splasm .username, .video-added-by-splasm strong, .username-splasm {
 	color: #8d6ddd;
 }
-.chat-msg-coldsmoodie .username {
+.chat-msg-coldsmoodie .username, .video-added-by-coldsmoodie strong, .username-coldsmoodie {
 	color: #00fff2;
 }
-.chat-msg-depthcue .username {
+.chat-msg-depthcue .username, .video-added-by-depthcue strong, .username-depthcue {
 	color: #1e90ff;
 }
-.chat-msg-avascordato .username {
+.chat-msg-avascordato .username, .video-added-by-avascordato strong, .username-avascordato {
 	color: #a65ee8;
 }
-.chat-msg-karlitatooswag .username {
+.chat-msg-karlitatooswag .username, .video-added-by-karlitatooswag strong, .username-karlitatooswag {
 	color: #00ff7f;
 }
-.chat-msg-maetha_ .username {
+.chat-msg-maetha_ .username, .video-added-by-maetha_ strong, .username-maetha_ {
 	color: #1e90ff;
 }
-.chat-msg-SAMANTHAAA__ .username {
+.chat-msg-SAMANTHAAA__ .username, .video-added-by-SAMANTHAAA__ strong, .username-SAMANTHAAA__ {
 	color: #00ff7f;
 }
-.chat-msg-Rogue_ .username {
+.chat-msg-Rogue_ .username, .video-added-by-Rogue_ strong, .username-Rogue_ {
 	color: #00fff2;
 }
-.chat-msg-coldsm .username {
+.chat-msg-coldsm .username, .video-added-by-coldsm strong, .username-coldsm {
 	color: #00fff2;
 }
-.chat-msg-captinofthecrunch .username {
+.chat-msg-captinofthecrunch .username, .video-added-by-captinofthecrunch strong, .username-captinofthecrunch {
 	color: #7cdff8;
 }
-.chat-msg-afraaaaaaaaaaa .username {
+.chat-msg-afraaaaaaaaaaa .username, .video-added-by-afraaaaaaaaaaa strong, .username-afraaaaaaaaaaa {
 	color: #daa520;
 }
-.chat-msg-awvoh .username {
+.chat-msg-awvoh .username, .video-added-by-awvoh strong, .username-awvoh {
 	color: #00ff7f;
 }
-.chat-msg-jahnellecotone .username {
+.chat-msg-jahnellecotone .username, .video-added-by-jahnellecotone strong, .username-jahnellecotone {
 	color: #d67fba;
 }
-.chat-msg-Bxstiannn .username {
+.chat-msg-Bxstiannn .username, .video-added-by-Bxstiannn strong, .username-Bxstiannn {
 	color: #00ff7f;
 }
-.chat-msg-triopop .username {
+.chat-msg-triopop .username, .video-added-by-triopop strong, .username-triopop {
 	color: #0b950b;
 }
-.chat-msg-fantastcxemily .username {
+.chat-msg-fantastcxemily .username, .video-added-by-fantastcxemily strong, .username-fantastcxemily {
 	color: #ff7f50;
 }
-.chat-msg-Mo-onl-ight .username {
+.chat-msg-Mo-onl-ight .username, .video-added-by-Mo-onl-ight strong, .username-Mo-onl-ight {
 	color: #00ff7f;
 }
-.chat-msg-yuhnely .username {
+.chat-msg-yuhnely .username, .video-added-by-yuhnely strong, .username-yuhnely {
 	color: #ff69b4;
 }
-.chat-msg-courtney2650 .username {
+.chat-msg-courtney2650 .username, .video-added-by-courtney2650 strong, .username-courtney2650 {
 	color: #279cff;
 }
-.chat-msg-Supibot .username {
+.chat-msg-Supibot .username, .video-added-by-Supibot strong, .username-Supibot {
 	color: #7b808a;
 }
-.chat-msg-wid3uwutin .username {
+.chat-msg-wid3uwutin .username, .video-added-by-wid3uwutin strong, .username-wid3uwutin {
 	color: #daa520;
 }
-.chat-msg-dunkter_ .username {
+.chat-msg-dunkter_ .username, .video-added-by-dunkter_ strong, .username-dunkter_ {
 	background-image: linear-gradient(90deg, rgba(56, 92, 20, 1) 0%, rgba(172, 182, 27, 1) 30%, rgba(235, 242, 146, 1) 44%, rgba(253, 255, 229, 1) 50%, rgba(235, 242, 146, 1) 56.00000000000001%, rgba(172, 182, 27, 1) 70%, rgba(56, 92, 20, 1) 100%);
 	background-size: cover;
 	background-clip: text;
@@ -201,7 +200,7 @@
 	background-color: currentColor;
 	filter: drop-shadow(0px 1px 1px rgba(15, 18, 12, 1));
 }
-.chat-msg-tintillo_05 .username {
+.chat-msg-tintillo_05 .username, .video-added-by-tintillo_05 strong, .username-tintillo_05 {
 	background-image: repeating-radial-gradient(ellipse, rgba(255, 207, 77, 1) 72%, rgba(255, 136, 0, 1) 87%, rgba(247, 122, 38, 1) 88%, rgba(249, 218, 134, 1) 95%);
 	background-size: cover;
 	background-clip: text;
@@ -210,16 +209,16 @@
 	background-color: currentColor;
 	filter: drop-shadow(0px 0px 5px rgba(252, 103, 3, 1)) drop-shadow(0px 0px 1px rgba(255, 213, 0, 1));
 }
-.chat-msg-jesucr7sto .username {
+.chat-msg-jesucr7sto .username, .video-added-by-jesucr7sto strong, .username-jesucr7sto {
 	color: #1e90ff;
 }
-.chat-msg-Pepega_Fraab .username {
+.chat-msg-Pepega_Fraab .username, .video-added-by-Pepega_Fraab strong, .username-Pepega_Fraab {
 	color: #94b79b;
 }
-.chat-msg-virus8451 .username {
+.chat-msg-virus8451 .username, .video-added-by-virus8451 strong, .username-virus8451 {
 	color: #ff009c;
 }
-.chat-msg-Lushomtv .username {
+.chat-msg-Lushomtv .username, .video-added-by-Lushomtv strong, .username-Lushomtv {
 	background-image: linear-gradient(291deg, rgba(29, 26, 255, 1) 19%, rgba(46, 231, 255, 1) 39%, rgba(255, 255, 255, 1) 46%, rgba(255, 0, 0, 1) 53%, rgba(255, 123, 0, 1) 89%);
 	background-size: cover;
 	background-clip: text;
@@ -227,7 +226,7 @@
 	-webkit-text-fill-color: transparent;
 	background-color: currentColor;
 }
-.chat-msg-ZonianMidian .username {
+.chat-msg-ZonianMidian .username, .video-added-by-ZonianMidian strong, .username-ZonianMidian {
 	background-image: linear-gradient(150deg, rgba(92, 81, 217, 1) 20%, rgba(227, 81, 151, 1) 49%, rgba(253, 183, 27, 1) 80%);
 	background-size: cover;
 	background-clip: text;
@@ -236,6 +235,6 @@
 	background-color: currentColor;
 	filter: drop-shadow(0px 0px 5px rgba(255, 20, 224, 1));
 }
-.chat-msg-Template .username {
+.chat-msg-Template .username, .video-added-by- strong, .username- {
 	
 }
