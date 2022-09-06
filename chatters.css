@@ -37,8 +37,9 @@
 	background-color: currentColor;
 	filter: drop-shadow(1.25px 1.25px 0px rgba(8, 61, 34, 0.6)) drop-shadow(1.25px 1.25px 0.25px rgba(0, 255, 127, 1)) drop-shadow(0.01px 0.01px 4.01px rgba(16, 79, 47, 1));
 }
-.chat-msg-mopoloBot .username {
-	color: #1e90ff;
+.chat-msg-mopoloBot .username, .video-added-by-mopoloBot strong, .username-mopoloBot {
+	/* color: #1e90ff; */
+	color: #7cdff8;
 }
 .chat-msg-colby .username {
 	color: #7cdff8;
