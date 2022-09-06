@@ -1,0 +1,5 @@
+.chat-msg-mopolo .username::before{
+content:"       ";
+background-repeat:repeat-y !important;
+background:url(https://media.discordapp.net/attachments/682764268546162704/1014235961015672922/unknown.png)
+}

@@ -286,3 +286,5 @@ function toggleDivs() {
     div1.style.display = 'inline';
   }
 }
+
+$('head').append("<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/BillTube/BillTube2@latest/chatters.css' />");
