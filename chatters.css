@@ -1,3 +1,14 @@
+
+/*               ____            _                               */
+/*              |  _ \          | |                              */
+/*              | |_) | __ _  __| | __ _  ___  ___               */
+/*              |  _ < / _` |/ _` |/ _` |/ _ \/ __|              */
+/*              | |_) | (_| | (_| | (_| |  __/\__ \              */
+/*              |____/ \__,_|\__,_|\__, |\___||___/              */
+/*                                  __/ |                        */
+/*                                 |___/                         */
+/*                                                               */
+
 .chat-msg-mopoloBot .username::before{
 	content:"       ";
 	background-repeat:repeat-y !important;
@@ -6,4 +17,282 @@
 .chat-msg-Supibot .username::before{
 	content:"      ";
 	background-repeat:repeat-y!important;
-	background:url(https://media.discordapp.net/attachments/682764268546162704/1014249209966362625/unknown.png)}
+	background:url(https://media.discordapp.net/attachments/682764268546162704/1014249209966362625/unknown.png)
+}
+
+/*                 _____      _                                  */
+/*                / ____|    | |                                 */
+/*               | |     ___ | | ___  _   _ _ __ ___             */
+/*               | |    / _ \| |/ _ \| | | | '__/ __|            */
+/*               | |___| (_) | | (_) | |_| | |  \__ \            */
+/*                \_____\___/|_|\___/ \__,_|_|  |___/            */
+/*                                                               */
+
+.chat-msg-Template .username {
+	
+}
+.chat-msg-mopolo .username {
+	background-image: linear-gradient(90deg, rgba(0, 255, 127, 1) 0%, rgba(170, 251, 251, 1) 25%, rgba(144, 232, 188, 1) 50%, rgba(170, 251, 251, 1) 75%, rgba(0, 255, 127, 1) 99%);
+	background-size: cover;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-color: currentColor;
+	filter: drop-shadow(1.25px 1.25px 0px rgba(8, 61, 34, 0.6)) drop-shadow(1.25px 1.25px 0.25px rgba(0, 255, 127, 1)) drop-shadow(0.01px 0.01px 4.01px rgba(16, 79, 47, 1));
+}
+.chat-msg-mopoloBot .username {
+	color: #1e90ff;
+}
+.chat-msg-colby .username {
+	color: #7cdff8;
+}
+.chat-msg-arina_ .username {
+	background-image: radial-gradient(circle, rgba(181, 65, 143, 1) 1%, rgba(162, 10, 69, 1) 48%, rgba(181, 65, 143, 1) 99%);
+	background-size: cover;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-color: currentColor;
+}
+.chat-msg-deethesea .username {
+	color: #9acd32;
+}
+.chat-msg-gwen0108 .username {
+	color: #8df8a8;
+}
+.chat-msg-lake0cean .username {
+	color: #1e90ff;
+}
+.chat-msg-scarly .username {
+	text-shadow: 0 0 5px #FFF, 0 0 5px #49ff18, 0 0 30px #49FF18, 0 0 20px #49FF18, 0 0 35px #49FF18;
+	color: #18181b;
+}
+.chat-msg-ilana .username {
+	color: #ffc2fa;
+}
+.chat-msg-dripdex .username {
+	color: #00ff7f;
+}
+.chat-msg-suwizzle .username {
+	background-image: radial-gradient(circle, rgba(255, 213, 250, 1) 0%, rgba(255, 213, 250, 1) 20%, rgba(249, 175, 236, 1) 20%, rgba(249, 175, 236, 1) 70%, rgba(183, 159, 241, 1) 70%, rgba(183, 159, 241, 1) 80%, rgba(131, 132, 223, 1) 80%, rgba(131, 132, 223, 1) 100%);
+	background-size: cover;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-color: currentColor;
+}
+.chat-msg-camille_ .username {
+	color: #5f9ea0;
+}
+.chat-msg-deadfishsaga .username {
+	color: #1e90ff;
+}
+.chat-msg-Sofia0livia .username {
+	color: #fe1919;
+}
+.chat-msg-ASH44307 .username {
+	color: #d67fba;
+}
+.chat-msg-zeinamatari .username {
+	color: #33925d;
+}
+.chat-msg-chala .username {
+	background-image: radial-gradient(circle, rgba(252, 93, 157, 1) 1%, rgba(248, 197, 150, 1) 48%, rgba(252, 93, 157, 1) 99%);
+	background-size: cover;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-color: currentColor;
+}
+.chat-msg-skubru .username {
+	color: #ffff00;
+}
+.chat-msg-onybear69 .username {
+	color: #1e90ff;
+}
+.chat-msg-samanthaaa .username {
+	color: #00ff0c;
+}
+.chat-msg-kyrawelch .username {
+	color: #8df8a8;
+}
+.chat-msg-has .username {
+	color: #00ff7f;
+}
+.chat-msg-lmao_effie .username {
+	color: #00ff7f;
+}
+.chat-msg-Kenia-the-mermaid .username {
+	color: #1e90ff;
+}
+.chat-msg-unnaturalduck .username {
+	color: #47b222;
+}
+.chat-msg-keelinf .username {
+	color: #2e8b57;
+}
+.chat-msg-splasm .username {
+	color: #8d6ddd;
+}
+.chat-msg-coldsmoodie .username {
+	color: #00fff2;
+}
+.chat-msg-depthcue .username {
+	color: #1e90ff;
+}
+.chat-msg-avascordato .username {
+	color: #a65ee8;
+}
+.chat-msg-karlitatooswag .username {
+	color: #00ff7f;
+}
+.chat-msg-maetha_ .username {
+	color: #1e90ff;
+}
+.chat-msg-SAMANTHAAA__ .username {
+	color: #00ff7f;
+}
+.chat-msg-Rogue_ .username {
+	color: #00fff2;
+}
+.chat-msg-coldsm .username {
+	color: #00fff2;
+}
+.chat-msg-captinofthecrunch .username {
+	color: #7cdff8;
+}
+.chat-msg-afraaaaaaaaaaa .username {
+	color: #daa520;
+}
+.chat-msg-awvoh .username {
+	color: #00ff7f;
+}
+.chat-msg-jahnellecotone .username {
+	color: #d67fba;
+}
+.chat-msg-Bxstiannn .username {
+	color: #00ff7f;
+}
+.chat-msg-triopop .username {
+	color: #0b950b;
+}
+.chat-msg-fantastcxemily .username {
+	color: #ff7f50;
+}
+.chat-msg-Mo-onl-ight .username {
+	color: #00ff7f;
+}
+.chat-msg-yuhnely .username {
+	color: #ff69b4;
+}
+.chat-msg-courtney2650 .username {
+	color: #279cff;
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
+.chat-msg-Template .username {
+	
+}
