@@ -288,3 +288,25 @@ function toggleDivs() {
 }
 
 $('head').append("<link rel='stylesheet' href='https://mopoio.github.io/CyTube-Room-Script/chatters.css' />");
+
+const initCustomUserSettings = () => {
+    const getCustomUserCss = userConfig => {
+        return `
+    .chat-msg-${userConfig.username} .username {
+      color: ${userConfig.colour};
+    }
+    .video-added-by-${userConfig.username} strong {
+      color: ${userConfig.colour};
+    }
+    .username-${userConfig.username} {
+      color: ${userConfig.colour};
+    }
+    `;
+    };
+
+    for (let i = 0; i < userConfig.length; i++) {
+        addCSS(getCustomUserCss(userConfig[i]));
+    }
+
+    addCSS(MAIN_CSS);
+};
