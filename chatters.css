@@ -1,5 +1,9 @@
-.chat-msg-mopolo .username::before{
-content:"       ";
-background-repeat:repeat-y !important;
-background:url(https://media.discordapp.net/attachments/682764268546162704/1014235961015672922/unknown.png)
+.chat-msg-mopoloBot .username::before{
+	content:"       ";
+	background-repeat:repeat-y !important;
+	background:url(https://media.discordapp.net/attachments/682764268546162704/1014249209966362625/unknown.png)
 }
+.chat-msg-Supibot .username::before{
+	content:"      ";
+	background-repeat:repeat-y!important;
+	background:url(https://media.discordapp.net/attachments/682764268546162704/1014249209966362625/unknown.png)}
