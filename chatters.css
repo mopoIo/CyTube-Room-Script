@@ -243,6 +243,12 @@
 .chat-msg-francorz .username, .video-added-by-francorz strong, .username-francorz {
 	color: rgb(254, 25, 25);
 }
+.chat-msg-colds .username, .video-added-by-colds strong, .username-colds {
+	color: #00fff2;
+}
+.chat-msg-sofiaa .username, .video-added-by-sofiaaa strong, .username-sofiaa {
+	color: #fe1919;
+}
 .chat-msg-Template .username, .video-added-by- strong, .username- {
 	
 }
