@@ -24,7 +24,16 @@
 	background-repeat:repeat-y !important;
 	background:url(https://media.discordapp.net/attachments/682764268546162704/1017123866893631518/unknown.png);
 }
-
+.chat-msg-Spanixbot .username::before{
+	content:"      ";
+	background-repeat:repeat-y!important;
+	background:url(https://media.discordapp.net/attachments/682764268546162704/1014249209966362625/unknown.png)
+}
+.username-Spanixbot::before {
+	content:" 󠀀  󠀀  󠀀  󠀀  󠀀  󠀀" !important;
+	background-repeat:repeat-y !important;
+	background:url(https://media.discordapp.net/attachments/682764268546162704/1017123866893631518/unknown.png);
+}
 /*                 _____      _                                  */
 /*                / ____|    | |                                 */
 /*               | |     ___ | | ___  _   _ _ __ ___             */
@@ -254,6 +263,12 @@ color: rgb(154, 255, 244);
 }
 .chat-msg-santiagocuki .username, .video-added-by-santiagocuki strong, .username-santiagocuki {
 color: rgb(166, 94, 232);
+}
+.chat-msg-Spanixbot .username, .video-added-by-Spanixbot strong, .username-Spanixbot {
+	color: rgb(164, 93, 236);
+}
+.chat-msg-Elpana_fr4n .username, .video-added-by-Elpana_fr4n strong, .username-Elpana_fr4n {
+	color: rgb(254, 25, 25);
 }
 .chat-msg-Template .username, .video-added-by- strong, .username- {
 	
