@@ -203,7 +203,7 @@
 	color: #7b808a;
 }
 .chat-msg-wid3uwutin .username, .video-added-by-wid3uwutin strong, .username-wid3uwutin {
-	color: #daa520;
+	background-image: linear-gradient(90deg, rgba(87, 38, 38, 1) 0%, rgba(85, 38, 37, 1) 20%, rgba(184, 30, 55, 1) 20%, rgba(181, 30, 54, 1) 40%, rgba(255, 51, 51, 1) 40%, rgba(255, 51, 51, 1) 60%, rgba(255, 127, 101, 1) 60%, rgba(253, 126, 100, 1) 80%, rgba(252, 200, 90, 1) 80%, rgba(252, 200, 90, 1) 100%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;
 }
 .chat-msg-dunkter_ .username, .video-added-by-dunkter_ strong, .username-dunkter_ {
 	background-image: linear-gradient(90deg, rgba(56, 92, 20, 1) 0%, rgba(172, 182, 27, 1) 30%, rgba(235, 242, 146, 1) 44%, rgba(253, 255, 229, 1) 50%, rgba(235, 242, 146, 1) 56.00000000000001%, rgba(172, 182, 27, 1) 70%, rgba(56, 92, 20, 1) 100%);
@@ -270,8 +270,8 @@ color: rgb(166, 94, 232);
 .chat-msg-Elpana_fr4n .username, .video-added-by-Elpana_fr4n strong, .username-Elpana_fr4n {
 	color: rgb(254, 25, 25);
 }
-.chat-msg-Template .username, .video-added-by- strong, .username- {
-	
+.chat-msg-frab .username, .video-added-by-frab strong, .username-frab {
+	background-image: linear-gradient(90deg, rgba(115, 100, 245, 1) 0%, rgba(120, 200, 255, 1) 40%, rgba(100, 240, 170, 1) 80%);background-size: cover;background-clip: text;-webkit-background-clip: text;-webkit-text-fill-color: transparent;background-color: currentColor;
 }
 .chat-msg-Template .username, .video-added-by- strong, .username- {
 	
