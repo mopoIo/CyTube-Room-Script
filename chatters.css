@@ -14,6 +14,11 @@
 	background-repeat:repeat-y !important;
 	background:url(https://media.discordapp.net/attachments/682764268546162704/1014249209966362625/unknown.png)
 }
+.username-mopoloBot::before {
+	content:" 󠀀  󠀀  󠀀  󠀀  󠀀  󠀀" !important;
+	background-repeat:repeat-y !important;
+	background:url(https://media.discordapp.net/attachments/682764268546162704/1017123866893631518/unknown.png);
+}
 .chat-msg-Supibot .username::before{
 	content:"      ";
 	background-repeat:repeat-y!important;
