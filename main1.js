@@ -287,4 +287,4 @@ function toggleDivs() {
   }
 }
 
-$('head').append("<link rel='stylesheet' href='https://mopoio.github.io/CyTube-Room-Script/chatters.css' />");
+$('head').append("<link rel='stylesheet' href='https://i.mopo.lol/users.css' />");
