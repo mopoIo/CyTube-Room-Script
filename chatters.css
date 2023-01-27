@@ -47,6 +47,15 @@
 /*                \_____\___/|_|\___/ \__,_|_|  |___/            */
 /*                                                               */
 
+.chat-msg-mopolo .username, .video-added-by-mopolo strong, .username-mopolo {
+	background-image: linear-gradient(90deg, rgba(0, 255, 127, 1) 0%, rgba(170, 251, 251, 1) 25%, rgba(144, 232, 188, 1) 50%, rgba(170, 251, 251, 1) 75%, rgba(0, 255, 127, 1) 99%);
+	background-size: cover;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-color: currentColor;
+	filter: drop-shadow(1.25px 1.25px 0px rgba(8, 61, 34, 0.6)) drop-shadow(1.25px 1.25px 0.25px rgba(0, 255, 127, 1)) drop-shadow(0.01px 0.01px 4.01px rgba(16, 79, 47, 1));
+}
 .chat-msg-mopoloBot .username, .video-added-by-mopoloBot strong, .username-mopoloBot {
 	color: #1e90ff;
 }
