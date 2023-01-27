@@ -219,3 +219,6 @@
 .chat-msg-colds .username, .video-added-by-colds strong, .username-colds {
 	color: #00fff2;
 }
+.chat-msg-Lushomtv .username, .video-added-by-Lushomtv strong, .username-Lushomtv {
+    text-decoration: none !important;-webkit-text-fill-color: transparent;background-clip: text !important;font-weight: 700;background: radial-gradient(circle, rgba(238, 255, 0, 1.000) 0%, rgba(166, 255, 0, 1.000) 50%, rgba(93, 195, 9, 1.000) 100%); filter: drop-shadow(0px 0px 0.5px rgba(37, 50, 1, 1.000)) drop-shadow(0px 0px 4px rgba(189, 225, 9, 1.000));
+}
